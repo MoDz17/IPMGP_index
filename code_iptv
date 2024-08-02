@@ -1,7 +1,7 @@
 {
 "name": "DIFERIDOS MotoGP",
 "author": "MoDz",
-"image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
+"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
 "info":"IPTV oficial de FUTBOL-ADICTOS para diferidos de MotoGP",
 "telegram": "",
 "url": "https://raw.githubusercontent.com/MoDz17/IPMGP_index/main/code_iptv",
@@ -13,9 +13,9 @@
            "url": "https://raw.githubusercontent.com/MoDz17/IPTV_MoDz/main/code_iptv",
            "import": false
       }, {
-           "name": "Ultm. versión 29/07/2024",
+           "name": "Ultm. versión 02/08/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 29/07/2024",
+           "info": "última versión actualizada el 02/08/2024",
            "import": false
       }, {
            "name": "MotoGP 2025",
