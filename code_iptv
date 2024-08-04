@@ -8,14 +8,14 @@
 "groups":
     [
        {
-           "name": "FUTBOL - ADICTOS",
+           "name": "IPT - ADICTOS",
            "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
            "url": "https://raw.githubusercontent.com/MoDz17/IPTV_MoDz/main/code_iptv",
            "import": false
       }, {
-           "name": "Ultm. versión 02/08/2024",
+           "name": "Ultm. versión 04/08/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 02/08/2024",
+           "info": "última versión actualizada el 04/08/2024",
            "import": false
       }, {
            "name": "MotoGP 2025",
