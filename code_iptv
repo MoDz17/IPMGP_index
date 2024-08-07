@@ -13,9 +13,9 @@
            "url": "https://raw.githubusercontent.com/MoDz17/IPTV_MoDz/main/code_iptv",
            "import": false
       }, {
-           "name": "Ultm. versión 04/08/2024",
+           "name": "Ultm. versión 07/08/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 04/08/2024",
+           "info": "última versión actualizada el 07/08/2024",
            "import": false
       }, {
            "name": "MotoGP 2025",
@@ -25,7 +25,7 @@
       }, {
            "name": "MotoGP 2024",
            "image": "https://i.blogs.es/d6d254/motogp-24-2024/375_375.webp",
-           "url": "",
+           "url": "https://raw.githubusercontent.com/MoDz17/IPMGP_content24/main/code_iptv",
            "import": false
         }
      ]
